@@ -1,5 +1,5 @@
 ## Hi there 👋
-![]([https://raw.githubusercontent.com/LinkmasterLing/LInkmasterLing/refs/heads/output/github-contribution-grid-snake-dark.svg](https://github.com/LinkmasterLing/LInkmasterLing/blob/output/github-snake.gif?raw=true))
+![](https://github.com/LinkmasterLing/LInkmasterLing/blob/output/github-snake.gif?raw=true)
 <!--
 **LinkmasterLing/LInkmasterLing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
